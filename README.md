@@ -22,6 +22,12 @@ Alternatively, you can clone this repo and either copy the skills into your own 
 
 If you notice any issues with the skills, please open an issue or open a pull request.
 
+## References
+
+Some skills are modifications of existing skills I've found to fit my workflow better:
+
+- [brainstorm](skills/brainstorm/SKILL.md) - modified from [obra/superpowers](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md)
+
 ## License
 
 The skills in this repo are licensed under the [MIT License](LICENSE).
