@@ -1,8 +1,7 @@
 ---
-
-## name: make-publishable
-
+name: make-publishable
 description: Use when preparing a repo, CLI, library, service, SDK, or internal tool for handoff, wider reuse, release, or open-source publication.
+---
 
 # Make Publishable
 
