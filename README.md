@@ -27,6 +27,7 @@ If you notice any issues with the skills, please open an issue or open a pull re
 Some skills are modifications of existing skills I've found to fit my workflow better:
 
 - [brainstorm](skills/brainstorm/SKILL.md) - modified from [obra/superpowers](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md)
+- [bro](skills/bro/SKILL.md) - copied from [Dillon Mulroy](https://x.com/dillon_mulroy/status/2079257150824620312?s=46)
 
 ## License
 
