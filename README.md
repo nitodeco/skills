@@ -18,6 +18,10 @@ npx skills update nitodeco/skills
 
 Alternatively, you can clone this repo and either copy the skills into your own skills directory or add symlinks to the skills in this repo.
 
+## Self-review
+
+Use [self-review](skills/self-review/SKILL.md) to check finished work for codebase rule violations, missing implementation, unnecessary complexity, and tests that do not check meaningful behavior. Findings use concise ASD-STE100 Simplified Technical English.
+
 ## Contribution
 
 If you notice any issues with the skills, please open an issue or open a pull request.
